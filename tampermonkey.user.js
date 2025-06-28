@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Ugphone Login
-// @author       King 👑 x HieuDz
-// @require      https://github.com/KingNotNgu/localstorage/raw/refs/heads/main/ugphone.js
+// @author       Datd2011
+// @require      https://raw.githubusercontent.com/Datd6100/Vo-han-ugphone/refs/heads/main/Function.js
 // @match        https://www.ugphone.com/*
 // @match        https://*.ugphone.com/*
 // @grant        GM_xmlhttpRequest
